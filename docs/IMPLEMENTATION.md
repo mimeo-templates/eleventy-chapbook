@@ -72,7 +72,7 @@ See: chronicles/phase-4-maintenance.md
 
 ## Current State
 
-The template family is stable. All three templates (folio, pamphlet, chapbook) share:
+The template family is stable. The two literary templates (pamphlet, chapbook) share:
 
 - Identical `content/` structure (fully portable)
 - Identical metadata schema in `content/_data/metadata.js`
@@ -91,6 +91,6 @@ No active feature work. Future changes should track as Phase 5.
 
 Ideas if needed:
 
-- Port literary CSS features back to folio/pamphlet
+- Port literary CSS features back to pamphlet
 - RSS/Atom feed for chapters
 - Pagination for long chapter lists
