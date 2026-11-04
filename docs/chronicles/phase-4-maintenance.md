@@ -54,7 +54,7 @@ plus sharp to every install.
 
 **What**: Images in `content/img/` copy to `_site/img/` unchanged.
 
-**Why**: The content contract (tepiton/content-fixture) expects
+**Why**: The content contract (mimeo-templates/content-fixture) expects
 literary templates to serve content-shipped images verbatim. DEC-010
 era left chapbook with no image handling at all — Eleventy 3 copies a
 file only when its extension is in `templateFormats` or an explicit
@@ -86,7 +86,7 @@ family with a stale templates path.
   link; portability line says "any of the other document templates"
 - CLAUDE.md: folio out of the port list and file-locations table,
   git-remote note deleted, "all three" phrasing reworded,
-  retirement note added, templates path fixed to tepiton/TEMPLATES
+  retirement note added, templates path fixed to mimeo-templates
 
 **Decisions**: none — documentation only, no code changed.
 

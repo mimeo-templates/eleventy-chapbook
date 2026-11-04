@@ -19,4 +19,4 @@ Built with [Eleventy](https://www.11ty.dev/).
 
 ## Source
 
-[github.com/tepiton/eleventy-chapbook](https://github.com/tepiton/eleventy-chapbook)
+[github.com/mimeo-templates/eleventy-chapbook](https://github.com/mimeo-templates/eleventy-chapbook)

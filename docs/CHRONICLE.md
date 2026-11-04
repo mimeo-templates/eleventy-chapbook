@@ -2,7 +2,7 @@
 
 ## Overview
 
-`eleventy-chapbook` is an Eleventy v3 starter for literary chaptered sites. Shares the portable `content/` contract (tepiton/content-fixture) with pamphlet, prose-blog, and tech-blog. Served from orobia.dev.
+`eleventy-chapbook` is an Eleventy v3 starter for literary chaptered sites. Shares the portable `content/` contract (mimeo-templates/content-fixture) with pamphlet, prose-blog, and tech-blog. Served from orobia.dev.
 
 ## Origin
 
